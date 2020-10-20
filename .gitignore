@@ -31,3 +31,10 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/MacOS
+
+
+5 ### Unity ###¬  
+
+
+.meta
+.unitypackage
