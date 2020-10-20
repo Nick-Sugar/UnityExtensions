@@ -1,0 +1,11 @@
+{
+    "name": "nick.com",
+    "displayName": "AutoSaveForEditor",
+    "version": "0.0.1",
+    "unity": "2019.4",
+    "description": "Automatically save progress.",
+    "keywords": ["Save"],
+    "category": "Save",
+    "dependencies": {
+    }
+}
